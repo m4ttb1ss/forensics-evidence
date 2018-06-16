@@ -1,0 +1,391 @@
+
+
+New files:
+==========
+2018-01-18T19:47:02Z	Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	       12510
+2018-02-16T05:48:38Z	ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.gthr	         354
+2018-02-16T05:50:23Z	ProgramData/Microsoft/RAC/Temp/sql75C4.tmp	       20480
+2018-02-16T05:50:23Z	ProgramData/Microsoft/RAC/Temp/sql75F4.tmp	       20480
+n/a	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{ae62accc-9a3c-4f8a-9822-a9f36a786285}	
+
+
+Deleted files:
+==============
+2017-02-21T17:48:12Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{ae62accc-9a3c-4f8a-9822-a9f36a786285}/snapshot.etl	      262144
+2017-02-21T18:04:56Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{5dd56fc5-5d0c-41c6-9a02-f64af12d810e}/snapshot.etl	      245760
+2017-02-21T18:10:57Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{a859aaa4-903b-4c6d-8b92-fa98459aad6e}/snapshot.etl	      245760
+2017-02-21T20:30:14Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{6521fffa-9331-4cb2-8d6c-57c412e773aa}/snapshot.etl	      196608
+2017-02-21T17:51:34Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{ae62accc-9a3c-4f8a-9822-a9f36a786285}	         160
+2017-02-21T18:06:57Z	Windows/System32/catroot2/edb00185.log	         160
+2017-02-21T18:06:57Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{5dd56fc5-5d0c-41c6-9a02-f64af12d810e}	         160
+2017-02-21T18:12:59Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{a859aaa4-903b-4c6d-8b92-fa98459aad6e}	         160
+2017-02-21T20:32:05Z	Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{6521fffa-9331-4cb2-8d6c-57c412e773aa}	         160
+2017-02-21T18:17:37Z	$OrphanFiles/0009/WmiApRpl.ini	       50180
+2018-01-18T19:41:01Z	Windows/System32/LogFiles/SQM/SQMLogger.etl.002	      114688
+2018-01-18T19:44:14Z	Windows/System32/LogFiles/SQM/SQMLogger.etl.003	      114688
+2018-01-18T19:45:27Z	$OrphanFiles/0009	          48
+
+
+Renamed files:
+==============
+
+Renamed	            	Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	renamed to	Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	mtime changed, 	2017-02-21T20:33:57Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	atime changed, 	2017-02-21T20:33:57Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	ctime changed, 	2018-01-18T19:41:16Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	crtime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:41:41Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=5111119872, len=4096, file_offset=0, img_offset=5217026048), ByteRun(len=8676, fill=b'0', file_offset=4096)])	ByteRuns(run_list=[ByteRun(fs_offset=510828544, len=65536, file_offset=0, img_offset=616734720)])
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	filesize changed, 	       12772	       65536
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	md5 changed, 	->	3dc559e94b333a4857e5cbc71663b739
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	nlink changed, 	           2	           1
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	parent_object changed, 	FileObject(annos=set(), inode=42106)	FileObject(annos=set(), inode=16833)
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	seq changed, 	           3	           4
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	sha1 changed, 	->	9adb144cb8ce955940371584fd2b7d1679fbc781
+
+Renamed	            	Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/tmp.edb	renamed to	ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl
+
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:38Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	atime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:36Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:38Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	crtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:36Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=26136576, len=65536, file_offset=0, img_offset=132042752)])	ByteRuns(run_list=[ByteRun(fs_offset=0, len=2, file_offset=0, img_offset=105906176)])
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	filesize changed, 	       65536	           2
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	md5 changed, 	3dc559e94b333a4857e5cbc71663b739	f3b25701fe362ec84616a93a45ce9998
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	nlink changed, 	           1	           2
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	parent_object changed, 	FileObject(annos=set(), inode=16833)	FileObject(annos=set(), inode=378)
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	seq changed, 	           2	           3
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.3.Crwl	sha1 changed, 	9adb144cb8ce955940371584fd2b7d1679fbc781	d62636d8caec13f04e28442a0a6fa1afeb024bbb
+
+Renamed	            	Windows/System32/LogFiles/Scm/3611a9c5-f390-4e77-bc41-3036013d5071	renamed to	Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan
+
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	mtime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	atime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	ctime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	crtime changed, 	2017-02-21T18:18:21Z	->	2009-07-14T04:42:30Z
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=0, len=20, file_offset=0, img_offset=105906176)])	ByteRuns(run_list=[ByteRun(fs_offset=491700224, len=3856, file_offset=0, img_offset=597606400)])
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	filesize changed, 	          20	        3856
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	md5 changed, 	c007185f0bbc6fc885ca99e78d57f2a6	6c7a03bfa8db9a5daa85a545e12cda68
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	parent_object changed, 	FileObject(annos=set(), inode=2700)	FileObject(annos=set(), inode=2888)
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	seq changed, 	           5	           6
+Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	sha1 changed, 	0dbcd1689fd60a1b8385a94259ae6dc2ac514edc	196fb143429cc6c829375303518cbcc493d8d2eb
+
+Renamed	            	Windows/System32/Tasks/Microsoft/Windows Defender/MP Scheduled Scan	renamed to	Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d
+
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	mtime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	atime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	ctime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	crtime changed, 	2009-07-14T04:42:30Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=2088374272, len=3856, file_offset=0, img_offset=2194280448)])	ByteRuns(run_list=[ByteRun(fs_offset=0, len=20, file_offset=0, img_offset=105906176)])
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	filesize changed, 	        3856	          20
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	md5 changed, 	0832802797248bd7ddff715ed26cf325	79a7332d7fab9a139aa73fdacb3f5ee0
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	parent_object changed, 	FileObject(annos=set(), inode=2888)	FileObject(annos=set(), inode=2700)
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	seq changed, 	           4	           5
+Windows/System32/LogFiles/Scm/dff3d08b-07ae-41bc-8e09-a0ca81e8ea6d	sha1 changed, 	0d4aa7a2db5f6c8d87238290a23f6dc5e474e64b	bf4e2ebb4d1a00ea363761ed099a6cdd1b46688a
+
+
+Files with modified contents:
+=============================
+
+ProgramData/Microsoft/RAC	md5 changed, 	23277303e1ee25a0afcab8ca6d1885e9	1569fd88653496fe0f83b10c42b35513
+ProgramData/Microsoft/RAC	sha1 changed, 	45d8b83b50b0e3e83375f152dd7454fe556adfd4	05406e76b03cba04ab68b205c342237b1c6f8134
+
+Windows/System32/Tasks/Microsoft	md5 changed, 	e2f5797864f6b84106abc77be24759f6	20607fdd17b36ea2ba0672cec7ed1962
+Windows/System32/Tasks/Microsoft	sha1 changed, 	c9e11376c27db7943f87ac2a9711dc94da40da63	f0d5ff77f2bdc96a21ec36bbbd8061d9e98871bb
+
+$Extend/$RmMetadata/$Txf/0000000000000724	md5 changed, 	18c292f86d4c3d00657224127d106081	968f91fcb9b2eda22a7faf6335f5ceae
+$Extend/$RmMetadata/$Txf/0000000000000724	sha1 changed, 	f488f90de11ed0ec515e441c885623d05f662f6f	b415edb13a55a516ce18a81552beb16536d9c8cf
+
+$Bitmap	md5 changed, 	ad5163768860e543a2c92ef387ab7e19	d2649ee8b48586e5e05279057a4ca980
+$Bitmap	sha1 changed, 	aac0c8615e856dfc9a49ce9bc1a0f859eb384bd2	551a2835705df95c7e81c1b3697160fc4451576c
+
+$LogFile	md5 changed, 	dfe8e1f43225420e9e902811dbc53bd2	b9fd08f0df78171b600c82752410c201
+$LogFile	sha1 changed, 	9207e86816435a3667bf5377df88605b243a5f46	94e80061cf435de7e25fde97c2a462f36741f205
+
+$MFT	md5 changed, 	4a6ba9b0268c6cd3fce02af2b1e09542	1fc0e463675e1378f49fd6f64c3a55de
+$MFT	sha1 changed, 	d983d284d05694fd716fbbe8845ad05c2674d53f	f80987ccd4abc229e734c0b3f392d24c19767576
+
+$Extend/$RmMetadata/$Txf/000000000000001F	md5 changed, 	f82150a5620fb7c09bfa545c4436cd5e	fcdcc1a1bb78eca66efe407fb44a21c3
+$Extend/$RmMetadata/$Txf/000000000000001F	sha1 changed, 	b4820a866c5ec501750cea8d47bad0ca09435415	0383a7f1109918c744bc5ec494ae30d38585df80
+
+$Extend/$RmMetadata/$Txf/0000000000000020	md5 changed, 	549faab4b8a2de39daf1c0c7f7ec3a93	7edc705402deabad36ab867486d05a0b
+$Extend/$RmMetadata/$Txf/0000000000000020	sha1 changed, 	2c1306da20f2e475bb0472bfd71fe4b2bf0e0693	3f19b39b42a66bf9da74dcb134af0fd99d78b5b9
+
+Windows/System32/Tasks/Microsoft/Windows/Media Center/PvrRecoveryTask	md5 changed, 	f82150a5620fb7c09bfa545c4436cd5e	fcdcc1a1bb78eca66efe407fb44a21c3
+Windows/System32/Tasks/Microsoft/Windows/Media Center/PvrRecoveryTask	sha1 changed, 	b4820a866c5ec501750cea8d47bad0ca09435415	0383a7f1109918c744bc5ec494ae30d38585df80
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c	md5 changed, 	c42b75d06c89f12be7f6a905b613246c	17782e1ece609dfd729fde14c20d59ee
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c	sha1 changed, 	58a229d8e517288749d3f6e4a76e22b6ffd3782f	c959b55fe77dfdb15c87b31e031d56fd5cc57840
+
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	c42b75d06c89f12be7f6a905b613246c	17782e1ece609dfd729fde14c20d59ee
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	58a229d8e517288749d3f6e4a76e22b6ffd3782f	c959b55fe77dfdb15c87b31e031d56fd5cc57840
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19	md5 changed, 	d0ff0db5b5a99189a097c384ea31815c	c1deaba3498911c8abaea10b057ae725
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19	sha1 changed, 	0176f02c90e7c48367d2aeb622b748f3b609148d	d4e559fca7d8491de402a0b4e404837638be7cef
+
+Windows/servicing/Packages/Microsoft-Windows-MSMQ-Client-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	d0ff0db5b5a99189a097c384ea31815c	c1deaba3498911c8abaea10b057ae725
+Windows/servicing/Packages/Microsoft-Windows-MSMQ-Client-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	0176f02c90e7c48367d2aeb622b748f3b609148d	d4e559fca7d8491de402a0b4e404837638be7cef
+
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs	md5 changed, 	8b3b84d1fff41afcd9475e48f9d2d436	a744b2b30ed732608035c6c2c4dab5c0
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs	sha1 changed, 	97ee8d9e2344ec9b243b32e9de385b07951ebc80	1bdef6475e64a373760c6cf3ac6619eb1b606d83
+
+Windows/servicing/Packages/Microsoft-Windows-SearchEngine-Client-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	8b3b84d1fff41afcd9475e48f9d2d436	a744b2b30ed732608035c6c2c4dab5c0
+Windows/servicing/Packages/Microsoft-Windows-SearchEngine-Client-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	97ee8d9e2344ec9b243b32e9de385b07951ebc80	1bdef6475e64a373760c6cf3ac6619eb1b606d83
+
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	md5 changed, 	435430187a9a228c8215393524bb5b79	21d93cc6f8faeeeca62c0a7c5e720435
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	sha1 changed, 	8e5e694035af4b38bf3c132358362465a8168598	4e3a5d330f1ece7ef3507feb407311206afcf94f
+
+Windows/System32/catroot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/Microsoft-Windows-Client-Drivers-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	fe1b846d8d7b5180da3a5f1a7f8b64f4	e189a8674b893c479adc802d81a11e8c
+Windows/System32/catroot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/Microsoft-Windows-Client-Drivers-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	adac46522ec7a9cc4edba2325a681d0e7c3baf2d	61e631425e5ac6a640033df7d0abeb76f15e1066
+
+Windows/System32/config/COMPONENTS{6cced2ec-6e01-11de-8bed-001e0bcd1824}.TxR.blf	md5 changed, 	fe1b846d8d7b5180da3a5f1a7f8b64f4	e189a8674b893c479adc802d81a11e8c
+Windows/System32/config/COMPONENTS{6cced2ec-6e01-11de-8bed-001e0bcd1824}.TxR.blf	sha1 changed, 	adac46522ec7a9cc4edba2325a681d0e7c3baf2d	61e631425e5ac6a640033df7d0abeb76f15e1066
+
+Windows/System32/SMI/Store/Machine/SCHEMA.DAT{e29ac73c-7037-11de-816d-001c23e25b76}.TxR.0.regtrans-ms	md5 changed, 	26fae2465beb791065381549a794500a	3884128f0cf99a9f6f4373cd2823ac3c
+Windows/System32/SMI/Store/Machine/SCHEMA.DAT{e29ac73c-7037-11de-816d-001c23e25b76}.TxR.0.regtrans-ms	sha1 changed, 	06a6532396dd7690225515af7e88114f372ed3f5	48bb868f58758c43a33528a2f67e2b588d29bc28
+
+Windows/System32/config/TxR/{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms	md5 changed, 	6b9a8316c8916c32280f80de8e526719	bfc40cd865c3184bf169457d8bba193c
+Windows/System32/config/TxR/{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms	sha1 changed, 	d3fd277fb5a9e0d75365c29b84205bb4458bc91d	41ff0bf822058e3c6da7eb56215a330c7ce9c222
+
+Windows/System32/config/TxR/{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.2.regtrans-ms	md5 changed, 	9efcd9b9228f758d54f01727c417c994	0760379a62d3d7a95e98298ef00f63ea
+Windows/System32/config/TxR/{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.2.regtrans-ms	sha1 changed, 	2965fdf367d45d377c9113b8b07ff36860180003	e71263eb864267153383f971bb416d72a9c039d7
+
+Windows/System32/config/TxR/{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.blf	md5 changed, 	a789a79c78b2fc9a713e109fbb97fbf9	b572a19ade4ac32c0ee30e8240a0227c
+Windows/System32/config/TxR/{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.blf	sha1 changed, 	a0f4c5579499a076e044b21d152cf3b49188a6b7	9115e068a8e74473ee97c40ff770dd690e5bd8bb
+
+$Extend/$RmMetadata/$TxfLog/$TxfLogContainer00000000000000000001	md5 changed, 	a12ab6ad56e4b992f434494f2327bb1b	d6da16c334c42dfc097a320cfb8417db
+$Extend/$RmMetadata/$TxfLog/$TxfLogContainer00000000000000000001	sha1 changed, 	d6b717883f3ff9871a16a7e0fb00e34ba301d196	d7a93633255a9caa95d690cb3dec995c7325e6f3
+
+Users/win7/AppData/Local/Temp/WPDNSE	md5 changed, 	9b91ab907c15a51466c6ca0381813635	f6c957f7992da55ea878d2f489c500c7
+Users/win7/AppData/Local/Temp/WPDNSE	sha1 changed, 	b6d138cbc188ab4727397db9ed2b69ae174d5a2f	6cb4e7ce3c0c70ff937d864de9b71ac9a64e6b20
+
+Windows/ServiceProfiles/LocalService/AppData/Local/lastalive0.dat	md5 changed, 	9b91ab907c15a51466c6ca0381813635	f6c957f7992da55ea878d2f489c500c7
+Windows/ServiceProfiles/LocalService/AppData/Local/lastalive0.dat	sha1 changed, 	b6d138cbc188ab4727397db9ed2b69ae174d5a2f	6cb4e7ce3c0c70ff937d864de9b71ac9a64e6b20
+
+Windows/ServiceProfiles/LocalService/AppData/Local/lastalive1.dat	md5 changed, 	96dd4689baaf98565b20240d6812aded	1e613c3aaa3cfdc08f5e79a1d616756c
+Windows/ServiceProfiles/LocalService/AppData/Local/lastalive1.dat	sha1 changed, 	a83e1959e03dbd98872c6d7858176ead97012ee9	0f63a3eb774f01fb546133b3ff28766968989ab8
+
+Windows/System32/winevt/Logs/Microsoft-Windows-NetworkProfile%4Operational.evtx	md5 changed, 	5cf626e42b8904f80cac6272eef31702	d19dec43124d2adea575edc9d955d804
+Windows/System32/winevt/Logs/Microsoft-Windows-NetworkProfile%4Operational.evtx	sha1 changed, 	fe38303c057504aa55862eeedf000eeacf1e8855	dc9d8879213874aeadffb50d0049dbd237569c61
+
+Windows/System32/winevt/Logs/Microsoft-Windows-HomeGroup Provider Service%4Operational.evtx	md5 changed, 	0fd0d2a5a96a8240d4ce530ab94179b8	71e494ebe2c44f88463011c84614249d
+Windows/System32/winevt/Logs/Microsoft-Windows-HomeGroup Provider Service%4Operational.evtx	sha1 changed, 	df5c0276ec5a1526a12b206e80a9d064dba5f4cf	151d9cb902b617fe27906554e6291b3a910e3fcb
+
+ProgramData/Microsoft/RAC/PublishedData	md5 changed, 	02649f6f1efdb3b62827ff88564d7151	bb1137547d41837eb11521447c35e8cf
+ProgramData/Microsoft/RAC/PublishedData	sha1 changed, 	58d3fbdff5e9701744b24f4d859d219f6d370987	0b4a07644759125209d760f3e23e3770673cb1c4
+
+Windows/System32/winevt/Logs/Microsoft-Windows-WindowsBackup%4ActionCenter.evtx	md5 changed, 	df373fc618459f97d49f4a5ea1051413	2dfc484d9f86e85a9c04b301c39d5be6
+Windows/System32/winevt/Logs/Microsoft-Windows-WindowsBackup%4ActionCenter.evtx	sha1 changed, 	d50bc11e12c667746a246a7492c2d3325a1bd682	c9f09da3e0d3093ae6d86fc5f6efba2cc7b5fe0b
+
+Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx	md5 changed, 	518e113fc45c451d9829c20d8ba02796	144848341eee35d3e57a045af767c404
+Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx	sha1 changed, 	dfbde7020f3eb6509a77f9f4c2f22fc401873d1f	dfc8f272ffd696df2c2b9f099b4bb3f91d909523
+
+Windows/System32/winevt/Logs/Microsoft-Windows-ReliabilityAnalysisComponent%4Operational.evtx	md5 changed, 	9e40b309a3d45766211a52b9ce8cbb06	601ef6b682c5335711c73bb0b65eda9b
+Windows/System32/winevt/Logs/Microsoft-Windows-ReliabilityAnalysisComponent%4Operational.evtx	sha1 changed, 	d59146a24d8f608def713db846ea179bde781404	d72a28eaef4bff0bbe30a605e780e070da85a42d
+
+Windows/Prefetch	mtime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch	atime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch	ctime changed, 	2018-01-18T19:41:16Z	->	2018-01-18T19:47:02Z
+
+Windows/System32/config/SYSTEM.LOG1	mtime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T05:48:22Z
+Windows/System32/config/SYSTEM.LOG1	ctime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T05:48:22Z
+Windows/System32/config/SYSTEM.LOG1	md5 changed, 	a130b6fab2fadbcb6f0c90187b6c4451	950568faec63a4ea234abc9b9e6d70cb
+Windows/System32/config/SYSTEM.LOG1	sha1 changed, 	24101a7e23be94f4113640830c6157e02d1ef5f8	fde6a9d144d9b2a21764d53544d822de5e846a20
+
+ProgramData/Microsoft/RAC/Temp	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+ProgramData/Microsoft/RAC/Temp	atime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+ProgramData/Microsoft/RAC/Temp	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	mtime changed, 	2017-02-21T20:30:25Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	ctime changed, 	2017-02-21T20:30:25Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=0, len=20, file_offset=0, img_offset=105906176)])	ByteRuns(run_list=[ByteRun(fs_offset=0, len=12, file_offset=0, img_offset=105906176)])
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	filesize changed, 	          20	          12
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	md5 changed, 	52387edeaf930f914f4fc1cb983bc07f	097ec1c23a1c2c3491a4f8565d3fa9fc
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	sha1 changed, 	8488c9ff47aa1ad5db89932626d1ef56bdbd9b1e	21d2d8aaa88a77267c49ababdad76bbea1665106
+
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	md5 changed, 	a26cd3a5074412b48721bc1c8d877a9b	2cb1e0b2ecf4b11a1e9ae989fb5d6019
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	sha1 changed, 	b6f7de92f61038ae39424363725186852d70be94	75e40336ac2fd860c83a6d2b086a40057e565e8b
+
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	md5 changed, 	c9bd5b60b510f25eb58f7c8b8d984eff	23ba2ada36361519bb6baeb531031df9
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	sha1 changed, 	f7e7fcc2bab4df691aef97147b36117d5224e3ff	13a5ff0a73e5cec675e617ab2c9e845038bcebc5
+
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	md5 changed, 	96804bce48ee1714136347cdd8b0e3f4	5f591c3fd183cc9dde1fd333005ba434
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	sha1 changed, 	a8e77e8443a9b0254059aaad9312c3b2f65d61b2	5fcb1379fed2f4aaec13acc3d704d0433738b687
+
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	mtime changed, 	2018-01-18T19:44:15Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	ctime changed, 	2018-01-18T19:44:15Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	md5 changed, 	8e5177a42d2c43000ff266aa5735db39	c894bf6e61c7d344ebf1802ac93de681
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	sha1 changed, 	bd9f89b9a226d7000ece2678472c45fe02827773	df6ae4fd089f4382e4a4427809d1a682b5825a80
+
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T05:48:22Z
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	md5 changed, 	1033ec1a17b850f0d5d9db188b29159e	2cb1e0b2ecf4b11a1e9ae989fb5d6019
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	sha1 changed, 	671b9b4ab12e298063b5ae134c9979a2b004c84e	75e40336ac2fd860c83a6d2b086a40057e565e8b
+
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	mtime changed, 	2018-01-18T19:44:14Z	->	2018-02-16T05:48:22Z
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	ctime changed, 	2018-01-18T19:44:14Z	->	2018-02-16T05:48:22Z
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=2424832, len=15408, file_offset=0, img_offset=108331008)])	ByteRuns(run_list=[ByteRun(fs_offset=977350656, len=15548, file_offset=0, img_offset=1083256832)])
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	filesize changed, 	       15408	       15548
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	md5 changed, 	92d436a33e197d09b3e46b29fb07b065	5f5a430867184a5d6ea3d378714e79bf
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	sha1 changed, 	3d3876e3efa76f1741e4e4346308954b2d57158e	904bdf8d29fe7526284f571f23b065a315ca5b1d
+
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	mtime changed, 	2017-02-21T18:24:27Z	->	2018-02-16T05:48:22Z
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	ctime changed, 	2018-01-18T19:41:16Z	->	2018-02-16T05:48:22Z
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=5091008512, len=18764, file_offset=0, img_offset=5196914688)])	ByteRuns(run_list=[ByteRun(fs_offset=969596928, len=18954, file_offset=0, img_offset=1075503104)])
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	filesize changed, 	       18764	       18954
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	md5 changed, 	c953a0d0f39cbd7ff09d374a5a9f0a47	7fa4f93174d500d56410b37a4259e953
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	sha1 changed, 	cf50b3d4b84c7b424b957598f46da6eb9f7a8379	e092a3ed07e7a21d942bc6132dff351d2e087b0f
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping	atime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/db.mdb	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/db.mdb	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/db.mdb	md5 changed, 	136e9cb2a14deb55eb239a6ad2a60bb4	1303741087d1f92cf7e920c60e4d001a
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/db.mdb	sha1 changed, 	6a30cf9bd8c1024041b5b4fd93d2ae77ec6112c1	9dfa65d4e5c278878d6cccf006e9b1364949dff4
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.chk	mtime changed, 	2018-01-18T19:40:58Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.chk	ctime changed, 	2018-01-18T19:40:58Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.chk	md5 changed, 	16cbda2041fb5e8f51071406c7ec7730	2ac03995de09288adc4d50270a47802c
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.chk	sha1 changed, 	358d2f37269b04714d6b95791d96ea10fa0faeb6	161bd09af1d87d28ccb1aff066b35d472bf42e0a
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.log	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.log	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.log	md5 changed, 	5467bce5fff061a8e29853036633dfb8	97c8c4d198cac630379f225ef0e42cdd
+Windows/ServiceProfiles/LocalService/AppData/Roaming/PeerNetworking/17340abdeea6f9ed7cea5c1eddd78a0c9f5b16da.HomeGroupClassifier/d403fd62b4f6285c9cf2bb15a610fc9c/grouping/edb.log	sha1 changed, 	dd9fe52ca36178f2ff28b1d80d526b5a2ef67405	17e9119f7edd4eb7e6e764485d610ae9cf379f7b
+
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	atime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~~6.1.7600.16385.cat	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~~6.1.7600.16385.cat	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~~6.1.7600.16385.cat	md5 changed, 	5467bce5fff061a8e29853036633dfb8	97c8c4d198cac630379f225ef0e42cdd
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-LocationBasic-Package~31bf3856ad364e35~x86~~6.1.7600.16385.cat	sha1 changed, 	dd9fe52ca36178f2ff28b1d80d526b5a2ef67405	17e9119f7edd4eb7e6e764485d610ae9cf379f7b
+
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-Sensors-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	mtime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-Sensors-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	ctime changed, 	2018-01-18T19:41:41Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-Sensors-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	md5 changed, 	136e9cb2a14deb55eb239a6ad2a60bb4	1303741087d1f92cf7e920c60e4d001a
+Windows/servicing/Packages/Microsoft-Windows-MobilePC-Client-Sensors-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	sha1 changed, 	6a30cf9bd8c1024041b5b4fd93d2ae77ec6112c1	9dfa65d4e5c278878d6cccf006e9b1364949dff4
+
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19/7e22207fe9846926e18c29d3e675240e_54064b96-32be-4b5f-b115-a3ad3be4bebd	mtime changed, 	2018-01-18T19:41:52Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19/7e22207fe9846926e18c29d3e675240e_54064b96-32be-4b5f-b115-a3ad3be4bebd	ctime changed, 	2018-01-18T19:41:52Z	->	2018-02-16T05:48:25Z
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19/7e22207fe9846926e18c29d3e675240e_54064b96-32be-4b5f-b115-a3ad3be4bebd	md5 changed, 	9c5a4ac0106214dd3c1fd3a6e41b9303	c12afb15355a6f17d5a8b61eb64bf5fa
+Windows/ServiceProfiles/LocalService/AppData/Roaming/Microsoft/Crypto/RSA/S-1-5-19/7e22207fe9846926e18c29d3e675240e_54064b96-32be-4b5f-b115-a3ad3be4bebd	sha1 changed, 	7fbec22c69da22df4e49f29bbb21d4bd5f72a61a	344bc14e66e1f958f971a8880549b9ab4b0173c3
+
+Windows/servicing/Packages/Microsoft-Windows-NFS-ClientSKU-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	mtime changed, 	2018-01-18T19:41:52Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-NFS-ClientSKU-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	ctime changed, 	2018-01-18T19:41:52Z	->	2018-02-16T05:48:25Z
+Windows/servicing/Packages/Microsoft-Windows-NFS-ClientSKU-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	md5 changed, 	9c5a4ac0106214dd3c1fd3a6e41b9303	c12afb15355a6f17d5a8b61eb64bf5fa
+Windows/servicing/Packages/Microsoft-Windows-NFS-ClientSKU-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.mum	sha1 changed, 	7fbec22c69da22df4e49f29bbb21d4bd5f72a61a	344bc14e66e1f958f971a8880549b9ab4b0173c3
+
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	mtime changed, 	2018-01-18T19:42:55Z	->	2018-02-16T05:48:30Z
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	ctime changed, 	2018-01-18T19:42:55Z	->	2018-02-16T05:48:30Z
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=5280452608, len=23338, file_offset=0, img_offset=5386358784)])	ByteRuns(run_list=[ByteRun(fs_offset=5288738816, len=23196, file_offset=0, img_offset=5394644992)])
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	filesize changed, 	       23338	       23196
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	md5 changed, 	05ade4c75a340eb7a44051d9e2d3c58c	819bf2025036983eec039c0b7b2f02cc
+Windows/Prefetch/DLLHOST.EXE-40DD444D.pf	sha1 changed, 	23c199b288d0b15afa04976871735661f2960b15	56f1df2b157be06049381ed5c1d769fea4374cd5
+
+Windows/WindowsUpdate.log	mtime changed, 	2018-01-18T19:44:17Z	->	2018-02-16T05:48:30Z
+Windows/WindowsUpdate.log	ctime changed, 	2018-01-18T19:44:17Z	->	2018-02-16T05:48:30Z
+Windows/WindowsUpdate.log	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=9682944, len=11803, file_offset=0, img_offset=115589120)])	ByteRuns(run_list=[ByteRun(fs_offset=9682944, len=12080, file_offset=0, img_offset=115589120)])
+Windows/WindowsUpdate.log	filesize changed, 	       11803	       12080
+Windows/WindowsUpdate.log	md5 changed, 	29bed391f735a0ead394a28a4e90618c	dddbc724bc8b04aa5afcfd1bdb93c91b
+Windows/WindowsUpdate.log	sha1 changed, 	ccf6b8aec3b24507c82828f600945e31a3ce4879	8e29949b5d43088119205053e3350319b3d7dc7c
+
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	mtime changed, 	2018-01-18T19:44:17Z	->	2018-02-16T05:48:30Z
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	ctime changed, 	2018-01-18T19:44:17Z	->	2018-02-16T05:48:30Z
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=9682944, len=11803, file_offset=0, img_offset=115589120)])	ByteRuns(run_list=[ByteRun(fs_offset=9682944, len=12080, file_offset=0, img_offset=115589120)])
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	filesize changed, 	       11803	       12080
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	29bed391f735a0ead394a28a4e90618c	dddbc724bc8b04aa5afcfd1bdb93c91b
+Windows/servicing/Packages/Microsoft-Windows-SUA-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	ccf6b8aec3b24507c82828f600945e31a3ce4879	8e29949b5d43088119205053e3350319b3d7dc7c
+
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	mtime changed, 	2017-02-21T18:21:44Z	->	2018-02-16T05:48:30Z
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	ctime changed, 	2018-01-18T19:41:16Z	->	2018-02-16T05:48:30Z
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=6914424832, len=21772, file_offset=0, img_offset=7020331008)])	ByteRuns(run_list=[ByteRun(fs_offset=5318619136, len=21820, file_offset=0, img_offset=5424525312)])
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	filesize changed, 	       21772	       21820
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	md5 changed, 	99a79743938f0f280c11aa0d7ebdf281	d06d3d432005066e16207feb638092df
+Windows/Prefetch/AUDIODG.EXE-BDFD3029.pf	sha1 changed, 	3a8a76a45755549ab8f24f8549832d3a2befa197	3fd1afa9337ea0428640cf3aa4ca24eef49d99c2
+
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	mtime changed, 	2018-01-18T19:44:23Z	->	2018-02-16T05:48:32Z
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	ctime changed, 	2018-01-18T19:44:23Z	->	2018-02-16T05:48:32Z
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=643072, len=58742, file_offset=0, img_offset=106549248)])	ByteRuns(run_list=[ByteRun(fs_offset=5343862784, len=59574, file_offset=0, img_offset=5449768960)])
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	filesize changed, 	       58742	       59574
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	md5 changed, 	2994a73912e37f0810ca0fbe1d454b9a	2e73c89375a999b474708e2a7515d682
+Windows/Prefetch/TASKHOST.EXE-7238F31D.pf	sha1 changed, 	ecd8b3bc68672ca3ab7abf6d250913e130e02c38	4d896f99fc10d53002a210a7552c9888f82300a3
+
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex	mtime changed, 	2018-01-18T19:40:37Z	->	2018-02-16T05:48:36Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex	atime changed, 	2018-01-18T19:40:37Z	->	2018-02-16T05:48:36Z
+ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex	ctime changed, 	2018-01-18T19:40:37Z	->	2018-02-16T05:48:36Z
+
+Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf	mtime changed, 	2018-01-18T19:44:36Z	->	2018-02-16T05:48:46Z
+Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf	ctime changed, 	2018-01-18T19:44:36Z	->	2018-02-16T05:48:46Z
+Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=4734976, len=15538, file_offset=0, img_offset=110641152)])	ByteRuns(run_list=[ByteRun(fs_offset=510894080, len=15538, file_offset=0, img_offset=616800256)])
+Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf	md5 changed, 	0004a7576f37d6652817bb836137e29d	f8f468edf27e12d3e95ab2086cf09b50
+Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf	sha1 changed, 	080d20c712e1f92664e411736d40b1567fa3a9c3	f1ccfa31a6f695d176776a9f67d02baace25c126
+
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	mtime changed, 	2017-02-21T18:17:46Z	->	2018-02-16T05:48:46Z
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	ctime changed, 	2018-01-18T19:41:16Z	->	2018-02-16T05:48:46Z
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=498401280, len=12534, file_offset=0, img_offset=604307456)])	ByteRuns(run_list=[ByteRun(fs_offset=2424832, len=12558, file_offset=0, img_offset=108331008)])
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	filesize changed, 	       12534	       12558
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	md5 changed, 	c6d9bfacf77acf20b71e437b59d3270b	c3c2cd42e2064238224cb3801c6a8d0e
+Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf	sha1 changed, 	0fd4174385d7f3b004441bd8ab9fd75f2b0fded5	cd9f69270ea8fcadf16f47ea55f8f919765e770d
+
+Windows/System32/config/SYSTEM	mtime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T05:49:40Z
+Windows/System32/config/SYSTEM	ctime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T05:49:40Z
+
+Windows/System32/config/SOFTWARE	mtime changed, 	2018-01-18T19:41:01Z	->	2018-02-16T05:49:41Z
+Windows/System32/config/SOFTWARE	ctime changed, 	2018-01-18T19:41:01Z	->	2018-02-16T05:49:41Z
+
+Windows/System32/config/SOFTWARE.LOG1	mtime changed, 	2018-01-18T19:41:01Z	->	2018-02-16T05:49:41Z
+Windows/System32/config/SOFTWARE.LOG1	ctime changed, 	2018-01-18T19:41:01Z	->	2018-02-16T05:49:41Z
+Windows/System32/config/SOFTWARE.LOG1	data_brs changed, 	ByteRuns(run_list=[ByteRun(fs_offset=5489500160, len=305152, file_offset=0, img_offset=5595406336)])	ByteRuns(run_list=[ByteRun(fs_offset=5489500160, len=262144, file_offset=0, img_offset=5595406336)])
+Windows/System32/config/SOFTWARE.LOG1	filesize changed, 	      305152	      262144
+Windows/System32/config/SOFTWARE.LOG1	md5 changed, 	e999e9151865a0e12e84c517b0175971	34f145f627a915f8df015e9bd8ba4b9c
+Windows/System32/config/SOFTWARE.LOG1	sha1 changed, 	0fe79c81b5e22a68dc06730159364df93acdb25a	0fa353c87161a7976ca8f73ce6d4db96fb208ff4
+
+Windows/System32/LogFiles/Scm	mtime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm	atime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/LogFiles/Scm	ctime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+
+Windows/System32/Tasks/Microsoft/Windows Defender	mtime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender	atime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender	ctime changed, 	2017-02-21T18:18:21Z	->	2018-02-16T05:49:41Z
+Windows/System32/Tasks/Microsoft/Windows Defender	md5 changed, 	7c0d1b92b3b6ebeeb65d36c12d0389a1	5811319000ba7c7b31e20f5e7941c98e
+Windows/System32/Tasks/Microsoft/Windows Defender	sha1 changed, 	9c3a5ee1cae49f36c9e78ba31a5e2c3607d08d99	c4b34790a18c0f9a813365d502773128fcb725b5
+
+ProgramData/Microsoft/RAC/StateData/RacDatabase.sdf	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacDatabase.sdf	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+
+ProgramData/Microsoft/RAC/StateData/RacMetaData.dat	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacMetaData.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+
+Windows/servicing/Packages/Microsoft-Windows-Help-CoreClientUAPE-Package~31bf3856ad364e35~x86~de-DE~6.1.7600.16385.cat	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+Windows/servicing/Packages/Microsoft-Windows-Help-CoreClientUAPE-Package~31bf3856ad364e35~x86~de-DE~6.1.7600.16385.cat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+
+ProgramData/Microsoft/RAC/PublishedData/RacWmiDatabase.sdf	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/PublishedData/RacWmiDatabase.sdf	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	md5 changed, 	6a1e701993bb8d443150246daa18a783	76d35ee7cdb076230343a60c511c55b1
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	sha1 changed, 	a7e93475e40908988ca3287411b4e591a2be2041	75208d3733a7ccb6cdccf8f43ec831491c8bdfb4
+
+ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat	mtime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T05:50:23Z
+ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat	md5 changed, 	318c21f6e24487a31fe063df8cbb1bd2	dc9e05119a6deb0d3ed4932a815bcab0
+ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat	sha1 changed, 	c5e27029f0fce12d6b858477a1d4a0bcc63006b3	9eeaba17f56cbadc26d109855ced8f96dd2741a7
+
+Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}	mtime changed, 	2018-01-18T19:42:50Z	->	2018-02-16T05:52:35Z
+Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}	atime changed, 	2018-01-18T19:42:50Z	->	2018-02-16T05:52:35Z
+Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}	ctime changed, 	2018-01-18T19:42:50Z	->	2018-02-16T05:52:35Z
+
+
+Files with changed properties:
+==============================

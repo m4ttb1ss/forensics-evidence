@@ -1,0 +1,153 @@
+
+
+New files:
+==========
+2018-01-18T19:47:02Z	ST/c.txt	           9
+2018-01-18T19:47:02Z	ST/d.txt	           9
+2018-01-18T19:47:02Z	Windows/Prefetch/C.EXE-789E8535.pf	        5510
+2018-01-18T19:47:02Z	Windows/Prefetch/VBOXSERVICE.EXE-D9A170A8.pf	       12446
+2018-02-16T09:25:22Z	ProgramData/Microsoft/RAC/Temp/sql75C4.tmp	       20480
+2018-02-16T09:25:22Z	ProgramData/Microsoft/RAC/Temp/sql75C5.tmp	       20480
+2018-02-16T09:25:22Z	Windows/inf/UGatherer	       20480
+
+
+Deleted files:
+==============
+2017-02-21T18:17:37Z	$OrphanFiles/0009/WmiApRpl.ini	       50180
+2018-01-18T19:41:01Z	Windows/System32/LogFiles/SQM/SQMLogger.etl.002	      114688
+2018-01-18T19:44:14Z	Windows/System32/LogFiles/SQM/SQMLogger.etl.003	      114688
+2018-01-18T19:45:27Z	$OrphanFiles/0009	          48
+2018-01-18T19:46:17Z	ProgramData/Microsoft/RAC/Temp/sqlE7F5.tmp	       20480
+2018-01-18T19:46:17Z	ProgramData/Microsoft/RAC/Temp/sqlE815.tmp	       20480
+2018-01-18T19:46:17Z	Windows/inf/UGatherer	       20480
+	ST/sync.exe	
+
+
+Renamed files:
+==============
+
+
+Files with modified contents:
+=============================
+
+ProgramData/Microsoft/RAC	md5 changed, 	23277303e1ee25a0afcab8ca6d1885e9	e0cf7eb310a1f03b03b8d858c5f209d4
+ProgramData/Microsoft/RAC	sha1 changed, 	45d8b83b50b0e3e83375f152dd7454fe556adfd4	fccbf6940c0f865bcf6b4a6295dc421a00b5ac2c
+
+$Bitmap	md5 changed, 	ad5163768860e543a2c92ef387ab7e19	b2c5d6ce623e1a644575c9e9e21d4f68
+$Bitmap	sha1 changed, 	aac0c8615e856dfc9a49ce9bc1a0f859eb384bd2	8f88a608737c932849f68a238f16601015825d8d
+
+$LogFile	md5 changed, 	dfe8e1f43225420e9e902811dbc53bd2	6c4deb870bcd6e9efa440b8027fe4c87
+$LogFile	sha1 changed, 	9207e86816435a3667bf5377df88605b243a5f46	54bb01b6e69101035bbd1a68c858457f08a8c0c4
+
+$MFT	md5 changed, 	4a6ba9b0268c6cd3fce02af2b1e09542	7115f4aacb4e38af5214a292987ddd93
+$MFT	sha1 changed, 	d983d284d05694fd716fbbe8845ad05c2674d53f	ec8fd8c88c04e24e0a2da79482dbf1cceeea1365
+
+$Secure	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=378924, img_offset=614125568, fs_offset=508219392, file_offset=0)])	ByteRuns(run_list=[ByteRun(len=379108, img_offset=614125568, fs_offset=508219392, file_offset=0)])
+$Secure	md5 changed, 	ec91d0b7d7789ee294c6f9a4278b4e74	98d21af574ff6bc73a6fac6bae50b14c
+$Secure	sha1 changed, 	9a39e0269675f1a304916aed177906ba1e2fbde9	2f3299a23cfbf204fa8c03b1b59b5ef13f7d3424
+
+Users/win7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/2C2JJRJ3/dest5[1].htm	md5 changed, 	b0079f35688b0bf88398795ace4c6add	23c5e802d85517c8ac0fd76770d1c701
+Users/win7/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/2C2JJRJ3/dest5[1].htm	sha1 changed, 	b2c6f6c39dfdff10d158dbdfa6dbd47cbb72aa9c	91c4e45d8a62a82a5a5c8601517155332fae06f2
+
+Windows/System32/catroot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/Microsoft-Windows-Client-Drivers-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	md5 changed, 	fe1b846d8d7b5180da3a5f1a7f8b64f4	e80b948566aa4fe5f4fb241939a254c2
+Windows/System32/catroot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/Microsoft-Windows-Client-Drivers-Package~31bf3856ad364e35~x86~en-US~6.1.7600.16385.cat	sha1 changed, 	adac46522ec7a9cc4edba2325a681d0e7c3baf2d	f490b4e21d149f5fb6ad5022a7dc5c410dd0f8dc
+
+Windows/System32/config/COMPONENTS{6cced2ec-6e01-11de-8bed-001e0bcd1824}.TxR.blf	md5 changed, 	fe1b846d8d7b5180da3a5f1a7f8b64f4	e80b948566aa4fe5f4fb241939a254c2
+Windows/System32/config/COMPONENTS{6cced2ec-6e01-11de-8bed-001e0bcd1824}.TxR.blf	sha1 changed, 	adac46522ec7a9cc4edba2325a681d0e7c3baf2d	f490b4e21d149f5fb6ad5022a7dc5c410dd0f8dc
+
+Windows/System32/SMI/Store/Machine/SCHEMA.DAT{e29ac73c-7037-11de-816d-001c23e25b76}.TxR.2.regtrans-ms	md5 changed, 	5804107b6bfc21ec40869b930bd7ffb9	c353a91d8510c650b78c9b6d8f33303b
+Windows/System32/SMI/Store/Machine/SCHEMA.DAT{e29ac73c-7037-11de-816d-001c23e25b76}.TxR.2.regtrans-ms	sha1 changed, 	8768adb08afc048d9ba372ecf505377dc7878a32	ee3bc2884c29be48f0535fed090f92d7947e330a
+
+Windows/Prefetch	mtime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch	atime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch	ctime changed, 	2018-01-18T19:41:16Z	->	2018-01-18T19:47:02Z
+
+ST	mtime changed, 	2017-02-21T18:00:42Z	->	2018-01-18T19:47:02Z
+ST	atime changed, 	2017-02-21T18:00:42Z	->	2018-01-18T19:47:02Z
+ST	ctime changed, 	2017-02-21T18:00:42Z	->	2018-01-18T19:47:02Z
+
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	mtime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	atime changed, 	2017-02-21T20:33:57Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	ctime changed, 	2018-01-18T19:41:16Z	->	2018-01-18T19:47:02Z
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=4096, img_offset=5217026048, fs_offset=5111119872, file_offset=0), ByteRun(fill=b'0', len=8676, file_offset=4096)])	ByteRuns(run_list=[ByteRun(len=12510, img_offset=1092972544, fs_offset=987066368, file_offset=0)])
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	filesize changed, 	       12772	       12510
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	md5 changed, 	->	c0a10de2467c46b341bf786809b813f1
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	seq changed, 	           3	           4
+Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf	sha1 changed, 	->	08e2691a761731cf6200f0b887253e1506f9fb8f
+
+Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx	mtime changed, 	2017-02-21T18:02:24Z	->	2018-01-18T19:47:03Z
+Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx	ctime changed, 	2017-02-21T18:02:24Z	->	2018-01-18T19:47:03Z
+Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx	md5 changed, 	59f422d650679dbb77370958f740dade	8e22fa2f2a7af0d3513007e75a91c433
+Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx	sha1 changed, 	fc956e6ce7086411643aa9755f4360e8d4251b13	8f0cbb5e2a19a05142d4616d87c52d5045516c33
+
+Windows/System32/config/SYSTEM	mtime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T09:25:22Z
+Windows/System32/config/SYSTEM	ctime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T09:25:22Z
+
+Windows/System32/config/SYSTEM.LOG1	mtime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T09:25:22Z
+Windows/System32/config/SYSTEM.LOG1	ctime changed, 	2018-01-18T19:43:25Z	->	2018-02-16T09:25:22Z
+Windows/System32/config/SYSTEM.LOG1	md5 changed, 	a130b6fab2fadbcb6f0c90187b6c4451	886de3fb81883f4e4086b5016bc121a1
+Windows/System32/config/SYSTEM.LOG1	sha1 changed, 	24101a7e23be94f4113640830c6157e02d1ef5f8	ed6fbc0f63c9ade89041fe08e4cbed8e02020992
+
+ProgramData/Microsoft/RAC/Temp	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+ProgramData/Microsoft/RAC/Temp	atime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+ProgramData/Microsoft/RAC/Temp	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+ProgramData/Microsoft/RAC/Temp	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=48, img_offset=105906176, fs_offset=0, file_offset=0)])	ByteRuns(run_list=[ByteRun(len=256, img_offset=105906176, fs_offset=0, file_offset=0)])
+ProgramData/Microsoft/RAC/Temp	filesize changed, 	          48	         256
+ProgramData/Microsoft/RAC/Temp	md5 changed, 	ab9a6395505ab2912fa4c6d7927cf359	ffda7f2c2986cf2c984eef8ebfa22c05
+ProgramData/Microsoft/RAC/Temp	sha1 changed, 	00e5f837ad5aa8a26394e8daf0c2da80cff359ec	ea3993dc5464059a99a6e054ccfde57115de9a2c
+
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	mtime changed, 	2017-02-21T20:30:25Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	ctime changed, 	2017-02-21T20:30:25Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=20, img_offset=105906176, fs_offset=0, file_offset=0)])	ByteRuns(run_list=[ByteRun(len=12, img_offset=105906176, fs_offset=0, file_offset=0)])
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	filesize changed, 	          20	          12
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	md5 changed, 	52387edeaf930f914f4fc1cb983bc07f	a13035cc4d3f6b72ca0eb5dfed94b050
+Windows/System32/LogFiles/Scm/de8699d2-8a05-42f7-8a85-5162af47d26a	sha1 changed, 	8488c9ff47aa1ad5db89932626d1ef56bdbd9b1e	d9c0db3847352123608e73bd045777f2041b0cca
+
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	md5 changed, 	a26cd3a5074412b48721bc1c8d877a9b	030dcb70b456d46ca3d6014d32493e07
+Windows/System32/LogFiles/Scm/5b184694-64c3-4633-94c5-945b3fa561d6	sha1 changed, 	b6f7de92f61038ae39424363725186852d70be94	1d4d3ef1658e42fa528f0e19d19ab022c6c53625
+
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	md5 changed, 	c9bd5b60b510f25eb58f7c8b8d984eff	3a6af475830e792dfda793ab8494a55c
+Windows/System32/LogFiles/Scm/a1cfa52f-06f2-418d-addb-cd6456d66f43	sha1 changed, 	f7e7fcc2bab4df691aef97147b36117d5224e3ff	891e4b06e6433a0f54d83e699f4dc0c1aa3663d4
+
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	md5 changed, 	96804bce48ee1714136347cdd8b0e3f4	a855ca6752b5d363245c7eac9eae5b82
+Windows/System32/LogFiles/Scm/a316e645-1c56-45a6-bd6a-7dca79778090	sha1 changed, 	a8e77e8443a9b0254059aaad9312c3b2f65d61b2	e32b58c386c2fa878e9c456469c0244d04836fca
+
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	mtime changed, 	2018-01-18T19:44:15Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	ctime changed, 	2018-01-18T19:44:15Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	md5 changed, 	8e5177a42d2c43000ff266aa5735db39	07c50b242609321e298a8ac549aaddee
+Windows/System32/LogFiles/Scm/a6394592-54ce-4e93-8d64-1a068f462632	sha1 changed, 	bd9f89b9a226d7000ece2678472c45fe02827773	ddca20c4c62abb0e5745306a38fd1268cb11929e
+
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	mtime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	ctime changed, 	2018-01-18T19:44:13Z	->	2018-02-16T09:25:22Z
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	md5 changed, 	1033ec1a17b850f0d5d9db188b29159e	ac5659ee198d3276afbbd411ec848236
+Windows/System32/LogFiles/Scm/6b4cdf5c-8c54-465b-a8d0-7fb3e903b6b6	sha1 changed, 	671b9b4ab12e298063b5ae134c9979a2b004c84e	6503285f21d450341e3704e968644e534a6f346c
+
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	mtime changed, 	2018-01-18T19:44:14Z	->	2018-02-16T09:25:22Z
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	ctime changed, 	2018-01-18T19:44:14Z	->	2018-02-16T09:25:22Z
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=15408, img_offset=108331008, fs_offset=2424832, file_offset=0)])	ByteRuns(run_list=[ByteRun(len=15778, img_offset=2194264064, fs_offset=2088357888, file_offset=0)])
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	filesize changed, 	       15408	       15778
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	md5 changed, 	92d436a33e197d09b3e46b29fb07b065	9c86753f632ba5ac45bbcb3bb2d6a0ca
+Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf	sha1 changed, 	3d3876e3efa76f1741e4e4346308954b2d57158e	0e4d12b54a1340b9825b909c8d9d23d58ea482e3
+
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	mtime changed, 	2017-02-21T18:24:27Z	->	2018-02-16T09:25:22Z
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	ctime changed, 	2018-01-18T19:41:16Z	->	2018-02-16T09:25:22Z
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	data_brs changed, 	ByteRuns(run_list=[ByteRun(len=18764, img_offset=5196914688, fs_offset=5091008512, file_offset=0)])	ByteRuns(run_list=[ByteRun(len=18604, img_offset=1075503104, fs_offset=969596928, file_offset=0)])
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	filesize changed, 	       18764	       18604
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	md5 changed, 	c953a0d0f39cbd7ff09d374a5a9f0a47	3e2088c6b10bc66ea0f7e62ddf04f7e3
+Windows/Prefetch/WERMGR.EXE-0F2AC88C.pf	sha1 changed, 	cf50b3d4b84c7b424b957598f46da6eb9f7a8379	7d10a43c2f2cea0263cfbb1913092fc8fa656cc2
+
+
+Files with changed properties:
+==============================
+
+ProgramData/Microsoft/RAC/StateData/RacMetaData.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T09:25:22Z
+
+ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T09:25:22Z
+
+ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat	ctime changed, 	2018-01-18T19:46:17Z	->	2018-02-16T09:25:22Z

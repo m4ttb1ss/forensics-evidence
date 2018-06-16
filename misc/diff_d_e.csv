@@ -1,0 +1,44 @@
+Load Image;C:\ST\d.exe
+CreateFile;C:\Windows\Prefetch\D.EXE-8BF43FBA.pf
+RegOpenKey;HKLM\System\CurrentControlSet\Control\Terminal Server
+RegOpenKey;HKLM\System\CurrentControlSet\Control\Terminal Server
+RegQueryValue;HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat
+RegQueryValue;HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled
+RegCloseKey;HKLM\System\CurrentControlSet\Control\Terminal Server
+CreateFile;C:\ST\d.exe
+QuerySecurityFile;C:\ST\d.exe
+QueryBasicInformationFile;C:\ST\d.exe
+QuerySecurityFile;C:\ST\d.exe
+QueryBasicInformationFile;C:\ST\d.exe
+CloseFile;C:\ST\d.exe
+CreateFile;C:\ST\d.exe
+QueryBasicInformationFile;C:\ST\d.exe
+CloseFile;C:\ST\d.exe
+QueryDirectory;C:\ST
+CreateFile;C:\ST
+QueryDirectory;C:\ST\d.exe
+CloseFile;C:\ST
+RegQueryValue;HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\ST\d.exe
+RegCloseKey;HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+CreateFile;C:\ST\d.exe
+QueryBasicInformationFile;C:\ST\d.exe
+CloseFile;C:\ST\d.exe
+CreateFile;C:\
+QueryDirectory;C:\ST
+CloseFile;C:\
+CreateFile;C:\ST
+QueryDirectory;C:\ST\d.exe
+CloseFile;C:\ST
+RegOpenKey;HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+RegQueryValue;HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache
+RegCloseKey;HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+RegOpenKey;HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+RegOpenKey;HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+RegQueryValue;HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\ST\d.exe
+ReadFile;C:\Windows\System32\msvcrt.dll
+QueryNameInformationFile;C:\ST\d.exe
+CreateFile;C:\ST\d.txt
+WriteFile;C:\ST\d.txt
+CloseFile;C:\ST\d.txt
+QueryNameInformationFile;C:\ST\d.exe
+QueryNameInformationFile;C:\Windows\System32\msvcrt.dll
